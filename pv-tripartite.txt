@@ -5,3 +5,4 @@ Sujet: Démarrage du TMSP
 Décisions:
 1) Un rapport de 150 pages
 2) Un programme en python 3
+3) Envoyer un bilan intermédiaire le 5 décembre
