@@ -3,5 +3,5 @@ Présents: Tous les msig
 Sujet: Démarrage du TMSP
 
 Décisions:
-1) Un rapport de 1500 pages
+1) Un rapport de 150 pages
 2) Un programme en python 3
